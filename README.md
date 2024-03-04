@@ -1,5 +1,5 @@
 # Flash Paint Program
-This is a simple paint program made using FlashDevelop.
+This is a simple paint program made for Adobe Flash.
 
 ## Requirements
 - ActionScript 3.0
