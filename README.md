@@ -3,7 +3,7 @@ This is a simple paint program made for Adobe Flash.
 
 ## Requirements
 - ActionScript 3.0
-- Adobe Flash Player 21+
+- Adobe Flash Player (works on 10.3 and above)
 
 ## Run
 
