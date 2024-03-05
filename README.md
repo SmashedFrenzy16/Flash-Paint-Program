@@ -7,5 +7,5 @@ This is a simple paint program made for Adobe Flash.
 
 ## Run
 
-- Put the `Main.as` code into the default `Main.as` script in a FlashDevelop project (choose the option `AS3 Project` when creating a new project).
-- Or run the `PaintProg.swf` file in Adobe Flash Player.
+- Run the `PaintProg.swf` file in Adobe Flash Player.
+- Or put the `Main.as` code into the default `Main.as` script in a FlashDevelop project (choose the option `AS3 Project` when creating a new project).
